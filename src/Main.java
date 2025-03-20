@@ -47,7 +47,7 @@ public class Main {
                 System.out.println("Henk is de BOB");
                 break;
             case "Vladimir":
-                System.out.println("Vladimir drinkt alleen vodka");
+                System.out.println("Vladimir drinkt alleen vodka, maar rijdt toch");
                 break;
             default:
                 System.out.println("Invalid name");
